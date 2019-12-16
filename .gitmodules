@@ -1,0 +1,3 @@
+[submodule "awesome-algorithm"]
+	path = awesome-algorithm
+	url = https://github.com/Aitinkle/awesome-algorithm.git
